@@ -1,0 +1,12 @@
+C:\Users\adamm\source\repos\AdventureGame_Library1\AdventureGame_Library1\bin\Debug\AdventureGame_Library1.dll
+C:\Users\adamm\source\repos\AdventureGame_Library1\AdventureGame_Library1\bin\Debug\AdventureGame_Library1.pdb
+C:\Users\adamm\source\repos\AdventureGame_Library1\AdventureGame_Library1\obj\Debug\AdventureGame_Library1.csprojAssemblyReference.cache
+C:\Users\adamm\source\repos\AdventureGame_Library1\AdventureGame_Library1\obj\Debug\AdventureGame_Library1.csproj.CoreCompileInputs.cache
+C:\Users\adamm\source\repos\AdventureGame_Library1\AdventureGame_Library1\obj\Debug\AdventureGame_Library1.dll
+C:\Users\adamm\source\repos\AdventureGame_Library1\AdventureGame_Library1\obj\Debug\AdventureGame_Library1.pdb
+C:\Users\adamm\Desktop\ElevenFiftyProjects\GoldBadge\CSharpFundamentals\CSharpFundamentals\AdventureGame_Library1\AdventureGame_Library1\bin\Debug\AdventureGame_Library1.dll
+C:\Users\adamm\Desktop\ElevenFiftyProjects\GoldBadge\CSharpFundamentals\CSharpFundamentals\AdventureGame_Library1\AdventureGame_Library1\bin\Debug\AdventureGame_Library1.pdb
+C:\Users\adamm\Desktop\ElevenFiftyProjects\GoldBadge\CSharpFundamentals\CSharpFundamentals\AdventureGame_Library1\AdventureGame_Library1\obj\Debug\AdventureGame_Library1.csprojAssemblyReference.cache
+C:\Users\adamm\Desktop\ElevenFiftyProjects\GoldBadge\CSharpFundamentals\CSharpFundamentals\AdventureGame_Library1\AdventureGame_Library1\obj\Debug\AdventureGame_Library1.csproj.CoreCompileInputs.cache
+C:\Users\adamm\Desktop\ElevenFiftyProjects\GoldBadge\CSharpFundamentals\CSharpFundamentals\AdventureGame_Library1\AdventureGame_Library1\obj\Debug\AdventureGame_Library1.dll
+C:\Users\adamm\Desktop\ElevenFiftyProjects\GoldBadge\CSharpFundamentals\CSharpFundamentals\AdventureGame_Library1\AdventureGame_Library1\obj\Debug\AdventureGame_Library1.pdb
